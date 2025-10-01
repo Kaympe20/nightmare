@@ -5,9 +5,13 @@
                 <h1 class="text-slate-800 text-[clamp(3rem,7.5vw,8rem)] -mb-5 leading-tight font-bold tracking-wider">
                     Nightmare
                 </h1>
-                <p class="event-date font-black text-[max(2vw,2vh)] text-slate-700 mt-2.5 mb-0 tracking-wide">
-                    November 1st & 2nd
-                </p>
+                <div class="font-black text-[max(2vw,2vh)] text-slate-700 mt-2.5 mb-0 tracking-wide">
+                    <div class="flex justify-evenly">
+                        <p class="event-date">Washington, DC</p>
+                        <span class="event-date">|</span>
+                        <p class="event-date">November 1st & 2nd</p>
+                    </div>
+                </div>
                 <p class="font-semibold text-[clamp(1rem,3vw,2rem)] leading-relaxed">
                     This Halloween, skip the trick or treat and build something you're truly proud of.
                 </p>
