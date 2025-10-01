@@ -10,4 +10,12 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
+  app: {
+    head: {
+      title: 'Nightmare - November 1-2',
+      link: [
+        { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' },
+      ],
+    },
+  }
 })
