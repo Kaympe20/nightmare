@@ -1,7 +1,7 @@
 <template>
     <div class="min-h-screen py-10 px-5 text-center bg-[#f69252]">
         <div class="flex items-center justify-around gap-10 min-h-[400px] p-5 mb-5  ">
-            <div class="p-2.5">
+            <div class="p-2.5 max-w-[50%]">
                 <h1 class="text-slate-800 text-[clamp(3rem,7.5vw,8rem)] -mb-5 leading-tight font-bold tracking-wider">
                     Nightmare
                 </h1>
@@ -12,7 +12,7 @@
                     This Halloween, skip the trick or treat and build something you're truly proud of.
                 </p>
             </div>
-            <img src="../assets/daydream-dc.png" class="w-1/2 h-full object-cover"/>
+            <img src="../assets/daydream-dc.png" class="w-1/2 h-[45vh] object-cover"/>
         </div>
         <div class="flex justify-around gap-10 uppercase font-black text-2xl">
             <p class="max-w-100">Show up and meet 50 other like minded hackers (costumes encouraged)</p>
