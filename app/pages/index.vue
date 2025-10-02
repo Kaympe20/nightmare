@@ -41,7 +41,7 @@
                     </video>
                 </div>
                 <div class="p-4 text-center">
-                    <img class="rounded-xl shadow-2xl aspect-square object-cover w-full max-w-80 mx-auto" src="../assets/counterspell-team-1.jpg" />
+                    <img class="rounded-xl shadow-2xl aspect-square object-cover w-full max-w-80 mx-auto" src="../assets/rehacted-team.jpg" />
                 </div>
                 <div class="p-4 text-center">
                     <img class="rounded-xl shadow-2xl aspect-square object-cover w-full max-w-80 mx-auto" src="../assets/deven-orpheus-plushie.png" />
