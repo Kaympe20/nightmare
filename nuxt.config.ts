@@ -12,7 +12,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: 'Nightmare - November 1-2',
+      title: 'Nightmare',
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.svg' },
       ],
